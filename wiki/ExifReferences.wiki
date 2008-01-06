@@ -1,0 +1,5 @@
+#summary References used when coding
+
+This work couldn't be done with the reference for the spec. In particular I worked to: http://www.exif.org/Exif2-2.PDF
+
+For the format of the Canon stuff I used: http://www.burren.cx/david/canon.html
